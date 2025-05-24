@@ -79,9 +79,9 @@ const styles = StyleSheet.create({
   },
 
   contentContainer: {
-    position: 'absolute',
     flexDirection: 'column',
     alignItems: 'center',
+    position: 'absolute',
     // backgroundColor: 'red',
     top: 50,
     bottom: 0,
